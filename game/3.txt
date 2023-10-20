@@ -1,0 +1,9 @@
+red O
+blue X
+green X
+green O
+red O
+green O
+blue O
+red X
+green O
